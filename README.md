@@ -5,8 +5,7 @@ served with FastAPI and a modern dark glass web UI.
 
 
 
-Screenshot_20261017-120610.jpg
-
+![Demo](Screenshot_20261017-120610.jpg)
 
 
 ## Features
